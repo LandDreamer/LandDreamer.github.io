@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LandDreamer.github.io</id>
     <title>LandDreamer</title>
-    <updated>2020-06-06T13:52:18.890Z</updated>
+    <updated>2020-07-13T14:02:09.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LandDreamer.github.io"/>
     <link rel="self" href="https://LandDreamer.github.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://LandDreamer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LandDreamer</rights>
     <entry>
-        <title type="html"><![CDATA[CS 224N]]></title>
+        <title type="html"><![CDATA[CS 224N 2019]]></title>
         <id>https://LandDreamer.github.io/post/cs-224n/</id>
         <link href="https://LandDreamer.github.io/post/cs-224n/">
         </link>
         <updated>2020-06-06T13:51:35.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://github.com/LandDreamer/Stanford-CS224N">地址</a></p>
+<p>接近完结，还剩一些课+最后问答系统大作业完成。</p>
+<p>大作业有时间再说吧。</p>
 ]]></content>
     </entry>
     <entry>
